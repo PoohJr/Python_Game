@@ -41,4 +41,9 @@ while max(player_scores) < max_score:
 
     print("Your Score is", current_score)
 
+def somethinf():
+    print("i need sometghong new to update in Git")
+
+newthing =  somethinf()
+
     
